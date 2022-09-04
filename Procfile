@@ -1,1 +1,1 @@
-web: gunicorn cobadjango.wsgi
+web:gunicorn cobadjango.wsgi
